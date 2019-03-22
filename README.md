@@ -1,4 +1,4 @@
-# Projecto para matéria compiladores - BolsoLang
+# Projeto para matéria compiladores - BolsoLang
 Linguagem baseada em Bolsonaro  
 `talquei` = print  
 `Brasil acima de tudo` = (  
